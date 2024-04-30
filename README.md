@@ -66,35 +66,35 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 ## Output:
 # DATASET
-![image](https://github.com/Tarun-2006/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/145584190/9c8c3e90-852e-4631-8359-fa6f3d6ec11c)
+![image](https://github.com/NyomX/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/145953580/b94a0e22-d68e-4490-96e0-5ee4aaa9fb07)
 
 
 # data.info()
-![image](https://github.com/Tarun-2006/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/145584190/7f49d81b-e01d-4aef-a666-7055e9f2aeeb)
+![image](https://github.com/NyomX/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/145953580/78c1033a-100c-40f7-bc52-d7f7de839ebd)
 
 
 # CHECKING IF NULL VALUES ARE PRESENT
-![image](https://github.com/Tarun-2006/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/145584190/6411397f-a2df-48f4-8a67-0f7c04432afd)
+![image](https://github.com/NyomX/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/145953580/5b3ac80c-de32-473f-a305-15cb55f96683)
 
 
 # VALUE_COUNTS()
-![image](https://github.com/Tarun-2006/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/145584190/e77202fb-b69d-45da-880a-370d1f66e3b6)
+![image](https://github.com/NyomX/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/145953580/6899ae0e-00ad-4e4f-bab0-0b7202b0fdf4)
 
 
 # DATASET AFTER ENCODING
-![image](https://github.com/Tarun-2006/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/145584190/7a441828-7492-43e9-9f78-472262867269)
+![image](https://github.com/NyomX/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/145953580/4d63582e-803b-45dd-9b53-6cce3289d66e)
 
 
 # X-VALUES
-![image](https://github.com/Tarun-2006/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/145584190/b9ef796c-d8a9-4128-9e02-f6c2eea6e0bc)
+![image](https://github.com/NyomX/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/145953580/ee6773f7-013f-4a68-bad5-e759bad18aeb)
 
 
 # ACCURACY
-![image](https://github.com/Tarun-2006/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/145584190/666a5564-7fff-4a9a-882e-e9e4e1e951c9)
+![image](https://github.com/NyomX/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/145953580/0845be57-f857-4adf-bf2a-ab0a9d8c79ce)
 
 
 # dt.predict()
-![image](https://github.com/Tarun-2006/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/145584190/6e64fa39-e9f2-4b99-b722-f7487069f405)
+![image](https://github.com/NyomX/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/145953580/53c46361-e548-4819-bae4-5979849c5a5c)
 
 
 ## Result:
